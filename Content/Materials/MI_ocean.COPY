@@ -1,0 +1,39 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_ocean"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=39C7298D4A4BE1BB2DC19B97F4E30319
+   Parent=Material'"/Game/Prop/kit_ocean/Material/M_ocean.M_ocean"'
+   bHasStaticPermutationResource=True
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Desat CR"),ParameterValue=0.500000,ExpressionGUID=4A5B84EE43334474950A4F853F876DC2)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="Mult CR"),ParameterValue=0.020000,ExpressionGUID=44046C98478DCAAAECCC3A928A2C2B51)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="Pow CR"),ParameterValue=0.250000,ExpressionGUID=3EAC13D244BE6BED03874EBB8588A479)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="TCB Scale Global CR"),ParameterValue=0.000050,ExpressionGUID=DAB4E89748372FECF8ECD6B927B41A1D)
+   ScalarParameterValues(4)=(ParameterInfo=(Name="Amt FM"),ParameterValue=0.030000,ExpressionGUID=8622B1E94E1DB059E9D1568EC6366789)
+   ScalarParameterValues(5)=(ParameterInfo=(Name="Pow FM"),ParameterValue=3.000000,ExpressionGUID=C01804D74EC0B285CF7BA18403F20566)
+   ScalarParameterValues(6)=(ParameterInfo=(Name="TCB Pattern Scale FM"),ParameterValue=0.002000,ExpressionGUID=DC329E70414704D9C4E96CA9F574BCBE)
+   ScalarParameterValues(7)=(ParameterInfo=(Name="Strength NL"),ParameterValue=0.750000,ExpressionGUID=FB1E7070442BC39D453FF0B55A5256E6)
+   ScalarParameterValues(8)=(ParameterInfo=(Name="TCB 4WayChaos Speedl NL"),ParameterValue=0.070000,ExpressionGUID=C3F049444AAA9AEF76DD948F932A0352)
+   ScalarParameterValues(9)=(ParameterInfo=(Name="TCB ScaleGlobal NL"),ParameterValue=0.005000,ExpressionGUID=2C521F6B4B005C4CED84AC8C420208E3)
+   ScalarParameterValues(10)=(ParameterInfo=(Name="Roughness Dist Blend Offset"),ParameterValue=-8000.000000,ExpressionGUID=BF584307456A2F858BF87AA71B3ADCDE)
+   ScalarParameterValues(11)=(ParameterInfo=(Name="Roughness Dist Ramp Blend"),ParameterValue=20000.000000,ExpressionGUID=79BEB6524CF13BAFEAC848B1555FE64C)
+   ScalarParameterValues(12)=(ParameterInfo=(Name="Roughness Far Max"),ParameterValue=0.400000,ExpressionGUID=666C3CA24548AA2E64887EACCCEB6401)
+   ScalarParameterValues(13)=(ParameterInfo=(Name="Roughness Far Min"),ParameterValue=0.100000,ExpressionGUID=FAFFE5374661F181807B0D9D9460A6E5)
+   ScalarParameterValues(14)=(ParameterInfo=(Name="Roughness Mask Pow"),ParameterValue=0.200000,ExpressionGUID=F65C9FA54D8C57A5194EB398DBC9C59E)
+   ScalarParameterValues(15)=(ParameterInfo=(Name="Roughness Near"),ParameterValue=0.200000,ExpressionGUID=D2EEBC0E44AB8D6B6FBD6D8C6CDCFEAF)
+   ScalarParameterValues(16)=(ParameterInfo=(Name="Roughness TCB ScaleGlobal"),ParameterValue=0.000100,ExpressionGUID=1EBE386747C087F2450ACFA157F684BA)
+   ScalarParameterValues(17)=(ParameterInfo=(Name="Water Specular"),ParameterValue=0.250000,ExpressionGUID=0B9D51F64B4EA5E2CBC518AF9AD81577)
+   ScalarParameterValues(18)=(ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="Tint CR"),ParameterValue=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),ExpressionGUID=DE80B6B2440337E2FABD3D90E660BC8F)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=3EE4D1DB4453C230140215A402183172
+   ReferencedTextureGuids(1)=25E11CEB41EDD0B7093ED6BC2627AAD0
+   ReferencedTextureGuids(2)=93242AEF44C0516E58E8D1A24DAD3112
+   ReferencedTextureGuids(3)=84F4ABDA4DD1A442B20BFBB5F787A018
+   StaticParameters=(StaticSwitchParameters=((ParameterInfo=(Name="Debug"),bOverride=True,ExpressionGUID=E2711C634254B5470967318D1D675E60)))
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=0.046875,UVChannelIndex=0,TextureName="water_n",TextureReference="/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/water_n.water_n")
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=4DF038F64F91D260AB32D39EB9168B77
+End Object
